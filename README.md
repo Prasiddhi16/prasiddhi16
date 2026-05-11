@@ -20,22 +20,48 @@
 
 # 🌟 About Me
 
-```yaml
-Name: Prasiddhi Dumre
-Location: Nepal
-Focus:
-  - Full Stack Development
-  - AI & Computer Vision
-  - UI/UX Design
-  - Creative Developer Experiences
+<div align="center">
 
-Currently Building:
-  - Personal Finance Management System
-  - Waste Sorting Assistant
-  - Interactive Portfolio Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Learning:
-  - Advanced React & Next.js
-  - Computer Vision
-  - AI Integration
-  - Motion UI
+###  Focus
+- Full Stack Development  
+- AI & Computer Vision  
+- UI/UX Design  
+- Creative Developer Experiences  
+
+</td>
+<td width="50%" valign="top">
+
+###  Currently Building
+- Personal Finance Management System  
+- Waste Sorting Assistant  
+- Interactive Portfolio Systems  
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  Learning
+- Advanced React & Next.js  
+- Computer Vision  
+- AI Integration  
+- Motion UI  
+
+</td>
+<td width="50%" valign="top">
+
+###  Interests
+- Accessibility & Playful Tech  
+- Games & Design  
+- Machine Learning  
+- Creative Developer Tools  
+
+</td>
+</tr>
+</table>
+
+</div>
