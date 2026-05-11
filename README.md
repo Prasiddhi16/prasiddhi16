@@ -1,39 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6D2932&height=220&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C6A27E&height=180&section=header&text=Prasiddhi%20Dumre&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<table>
-<tr>
-<td width="58%" align="left">
+# Hi, I'm Prasiddhi 
 
-<h1 style="font-family:Georgia,Times New Roman,serif; font-size:52px; color:#F5E6D3; margin-bottom:0px;">
-Hi, I'm Prasiddhi
-</h1>
+### Student • Explorer • Problem Solver
 
-<h3 style="color:#D8C2A8; font-weight:400; margin-top:8px;">
-Student • Explorer • Problem Solver
-</h3>
-
-<br>
-
-<p>
-Building creative developer experiences with a blend of design,
-AI, and immersive digital storytelling.
+<p align="center">
+  <img src="./assets/mascot.gif" width="280"/>
 </p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=E8D8C4&width=500&lines=AI+%2B+Design+%2B+Code;Crafting+meaningful+digital+products;Building+smooth+interactive+experiences;Always+learning+something+new"/>
-
-</td>
-
-<td width="42%" align="center">
-
-<img src="./assets/mascot.gif" width="320"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C6A27E&center=true&vCenter=true&width=700&lines=Building+creative+developer+experiences;AI+%2B+Design+%2B+Code;Crafting+meaningful+digital+products;Always+learning+something+new"/>
+</p>
 
 </div>
 
@@ -44,7 +23,6 @@ AI, and immersive digital storytelling.
 ```yaml
 Name: Prasiddhi Dumre
 Location: Nepal
-
 Focus:
   - Full Stack Development
   - AI & Computer Vision
