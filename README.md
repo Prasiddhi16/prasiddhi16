@@ -1,10 +1,7 @@
 <div align="center">
-<img width="100%" 
-     src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=180&section=header&text=Prasiddhi%20Dumre&fontSize=42&fontColor=FFFDD0&animation=fadeIn"/>
-
 
 <img width="100%" 
-     src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=180&section=header&text=Hi,%20I'm%20Prasiddhi&fontSize=48&fontColor=FFFDD0&fontAlign=50&fontAlignY=40&animation=fadeIn&font=Playfair%20Display"/>
+     src="https://capsule-render.vercel.app/api?type=waving&color=3B0000&height=180&section=header&text=Hi,%20I'm%20Prasiddhi&fontSize=54&fontColor=FFFDD0&fontAlign=50&fontAlignY=40&animation=fadeIn&font=Cinzel%20Decorative"/>
 
 
 ### Student • Explorer • Problem Solver
