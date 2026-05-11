@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C6A27E&center=true&vCenter=true&width=700&lines=Building+creative+developer+experiences;AI+%2B+Design+%2B+Code;Crafting+meaningful+digital+products;Always+learning+something+new"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C6A27E&center=true&vCenter=true&width=700&lines=Building+creative+experiences;AI+%2B+Design+%2B+Code;Crafting+meaningful+digital+experience;Always+learning+something+new"/>
 </p>
 
 </div>
