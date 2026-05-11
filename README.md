@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" 
-     src="https://capsule-render.vercel.app/api?type=waving&color=3B0000&height=180&section=header&text=Hi,%20I'm%20Prasiddhi&fontSize=54&fontColor=FFFDD0&fontAlign=50&fontAlignY=40&animation=fadeIn&font=Cinzel%20Decorative"/>
+     src="https://capsule-render.vercel.app/api?type=waving&color=4B0000&height=180&section=header&text=Hi,%20I'm%20Prasiddhi&fontSize=54&fontColor=FFFDD0&fontAlign=50&fontAlignY=40&animation=fadeIn&font=Cinzel%20Decorative"/>
 
 
 ### Student • Explorer • Problem Solver
@@ -20,9 +20,9 @@
 
 # 🌟 About Me
 
-<div align="center">
 
-<table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
