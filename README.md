@@ -7,8 +7,16 @@
 ### Student • Explorer • Problem Solver
 
 <p align="center">
-  <img src="./assets/mascot.gif" width="280"/>
-</p>
+
+<img 
+  src="./assets/mascot-dark.gif#gh-dark-mode-only" 
+  width="280"
+/>
+
+<img 
+  src="./assets/mascot-light.gif#gh-light-mode-only" 
+  width="280"
+/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C6A27E&center=true&vCenter=true&width=700&lines=Building+creative+experiences;Crafting+meaningful+digital+experience;Always+learning+something+new"/>
